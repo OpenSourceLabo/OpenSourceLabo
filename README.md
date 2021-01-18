@@ -1,2 +1,4 @@
 # OpenSourceLabo
-The OpenSource Labo
+Presented By [BotStudios](https://github.com/botstudios)
+
+<img src="./osc.png">
